@@ -1,4 +1,4 @@
-# SnapChatFilterExample
+# RailGame an Alexa skill
 
 This is a simple Alexa skill example. 
 
